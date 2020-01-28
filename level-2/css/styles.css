@@ -1,0 +1,21 @@
+h1 {
+    font-family: Arial, Arial, Helvetica, sans-serif; /* Priorities*/
+    font-size: 16px; 
+    font-style: italic; /* normal, italic, oblique, initial, ... */
+    font-weight: bold; /* normal, bold, bolder, 100, 200, 300*/
+    color: red;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center; /* center, right, left, ...*/
+    text-indent: 20px;
+}
+
+a {
+    text-decoration: underline; /* solid, underline, double, ...*/
+    text-transform: uppercase; /* uppercase, lowercase, capitalize*/
+}

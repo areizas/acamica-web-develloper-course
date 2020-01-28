@@ -1,0 +1,25 @@
+/* Syntax */
+/*
+selector {
+  property: value;
+  property: value;
+  property: value;
+}
+
+selector {
+  property: value;
+  property: value;
+}
+*/
+
+/* Example */
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #FF0000;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 24px;
+}
