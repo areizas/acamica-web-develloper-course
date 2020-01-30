@@ -1,0 +1,16 @@
+/* Links */
+a {
+    text-decoration: none;
+}
+a:link { /* No visited yet */
+    color: #0000ff;
+}
+a:visited { /* Link has been visited */
+    color: #777777;
+}  
+a:hover { /* Decoration when the mouse pass on link */
+    text-decoration: underline;
+}
+a:active { /* Link is pressed */
+    font-weight: bold;
+}
