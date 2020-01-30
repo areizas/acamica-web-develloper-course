@@ -1,0 +1,21 @@
+ul li {
+    border-bottom: 1px solid red;
+}
+
+#principal { /* tag with id="principal"*/
+    color: #00ff00;
+    font-size: 24px;
+}
+
+.myClass { /* for every tag which class="myClass"*/
+    font-size: 24px;
+}
+
+p#principal { /* for every p with class="myClass"*/
+    color: #00ff00;
+    font-size: 24px;
+}
+
+p.myClass {
+font-size: 18px;
+}
